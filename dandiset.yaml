@@ -51,17 +51,10 @@ assetsSummary:
   - Position
   - ProcessingModule
   - OptogeneticSeries
-citation: Mayorquin, Heberto; Valero, Manuel; Buzsáki, György;  Zutshi, Ipshita; Yoon,
-  Euisik (2023) Probing subthreshold dynamics of hippocampal neurons by pulsed optogenetics
-  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000568/draft
+citation: Valero, Manuel;  Zutshi, Ipshita; Yoon, Euisik; Buzsáki, György (2023) Probing
+  subthreshold dynamics of hippocampal neurons by pulsed optogenetics (Version draft)
+  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000568/draft
 contributor:
-- affiliation: []
-  email: h.mayorquin@gmail.com
-  includeInCitation: true
-  name: Mayorquin, Heberto
-  roleName:
-  - dcite:DataCurator
-  schemaKey: Person
 - affiliation: []
   email: valegarman@gmail.com
   identifier: 0000-0001-7860-577X
@@ -84,20 +77,6 @@ contributor:
   schemaKey: Person
   url: https://valeroneuroscience.com/
 - affiliation: []
-  email: gyorgy.buzsaki@nyumc.org
-  identifier: 0000-0002-3100-4800
-  includeInCitation: true
-  name: Buzsáki, György
-  roleName:
-  - dcite:Author
-  - dcite:Conceptualization
-  - dcite:FundingAcquisition
-  - dcite:Methodology
-  - dcite:ProjectAdministration
-  - dcite:Supervision
-  - dcite:Researcher
-  schemaKey: Person
-- affiliation: []
   identifier: 0000-0001-8180-0816
   includeInCitation: true
   name: ' Zutshi, Ipshita'
@@ -115,6 +94,82 @@ contributor:
   - dcite:Supervision
   - dcite:ProjectAdministration
   schemaKey: Person
+- affiliation: []
+  email: gyorgy.buzsaki@nyumc.org
+  identifier: 0000-0002-3100-4800
+  includeInCitation: true
+  name: Buzsáki, György
+  roleName:
+  - dcite:Author
+  - dcite:Conceptualization
+  - dcite:FundingAcquisition
+  - dcite:Methodology
+  - dcite:ProjectAdministration
+  - dcite:Supervision
+  - dcite:Researcher
+  schemaKey: Person
+- awardNumber: ' LT0000717/2018, NIH MH107396, NS 090583 NSF PIRE, 1545858, U19 NS107616,
+    U19 NS104590, LT0000717/2018'
+  contactPoint: []
+  identifier: https://ror.org/02ebx7v45
+  includeInCitation: false
+  name: International Human Frontier Science Program Organization
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://www.hfsp.org/
+- awardNumber: MH107396, U19NS107616
+  contactPoint: []
+  identifier: https://ror.org/01cwqze88
+  includeInCitation: false
+  name: National Institutes of Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://www.nih.gov/
+- awardNumber: NS107616
+  contactPoint: []
+  identifier: https://ror.org/04xeg9z08
+  includeInCitation: false
+  name: National Institute of Mental Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://www.nimh.nih.gov/
+- awardNumber: EMBO ALTF 1161-2017
+  contactPoint: []
+  identifier: https://ror.org/04wfr2810
+  includeInCitation: false
+  name: European Molecular Biology Organization
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://www.embo.org/
+- awardNumber: NeuroNex MINT grant 1707316
+  contactPoint: []
+  identifier: https://ror.org/021nxhr62
+  includeInCitation: false
+  name: National Science Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://www.nsf.gov/
+- awardNumber: NIH MH107396,  NS 090583 NSF PIRE, 1545858, U19 NS107616
+  contactPoint: []
+  identifier: https://ror.org/033hnyq61
+  includeInCitation: false
+  name: Leon Levy Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: http://leonlevyfoundation.org/
+- affiliation: []
+  email: h.mayorquin@gmail.com
+  includeInCitation: false
+  name: Mayorquin, Heberto
+  roleName:
+  - dcite:DataCurator
+  schemaKey: Person
 dateCreated: '2023-06-28T15:39:24.241528+00:00'
 description: Understanding how excitatory (E) and inhibitory (I) inputs are integrated
   by neurons requires monitoring their subthreshold behavior. We probed the subthreshold
@@ -127,8 +182,7 @@ description: Understanding how excitatory (E) and inhibitory (I) inputs are inte
   of both place cells and unmasked preexisting place fields of non–place cells during
   track running. Thus, indirect probing of subthreshold dynamics in neuronal populations
   permits the disclosing of preexisting assemblies and modes of neuronal operations.
-ethicsApproval:
-- {}
+ethicsApproval: []
 id: DANDI:000568/draft
 identifier: DANDI:000568
 keywords: []
