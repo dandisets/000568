@@ -2,25 +2,120 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000568
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.4/context.json
+about:
+- identifier: UBERON:0002421
+  name: hippocampus
+  schemaKey: Anatomy
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 1
-  numberOfFiles: 1
+  approach:
+  - name: behavioral approach
+    schemaKey: ApproachType
+  - name: electrophysiological approach
+    schemaKey: ApproachType
+  - name: optogenetic approach
+    schemaKey: ApproachType
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: spike sorting technique
+    schemaKey: MeasurementTechniqueType
+  - name: behavioral technique
+    schemaKey: MeasurementTechniqueType
+  - name: signal filtering technique
+    schemaKey: MeasurementTechniqueType
+  - name: analytical technique
+    schemaKey: MeasurementTechniqueType
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  - name: multi electrode extracellular electrophysiology recording technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 199728388984
+  numberOfFiles: 40
+  numberOfSubjects: 3
   schemaKey: AssetsSummary
-citation: Mayorquin, Heberto (2023) Probing subthreshold dynamics of hippocampal neurons
-  by pulsed optogenetics (Version draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+    name: Mus musculus - House mouse
+    schemaKey: SpeciesType
+  variableMeasured:
+  - LFP
+  - Units
+  - SpatialSeries
+  - ElectrodeGroup
+  - ElectricalSeries
+  - Position
+  - ProcessingModule
+  - OptogeneticSeries
+citation: Mayorquin, Heberto; Valero, Manuel; Buzsáki, György;  Zutshi, Ipshita; Yoon,
+  Euisik (2023) Probing subthreshold dynamics of hippocampal neurons by pulsed optogenetics
+  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000568/draft
 contributor:
 - affiliation: []
   email: h.mayorquin@gmail.com
   includeInCitation: true
   name: Mayorquin, Heberto
   roleName:
+  - dcite:DataCurator
+  schemaKey: Person
+- affiliation: []
+  email: valegarman@gmail.com
+  identifier: 0000-0001-7860-577X
+  includeInCitation: true
+  name: Valero, Manuel
+  roleName:
+  - dcite:Author
   - dcite:ContactPerson
+  - dcite:Researcher
+  - dcite:Conceptualization
+  - dcite:DataCurator
+  - dcite:FundingAcquisition
+  - dcite:Investigation
+  - dcite:Methodology
+  - dcite:ProjectAdministration
+  - dcite:FormalAnalysis
+  - dcite:Software
+  - dcite:Validation
+  - dcite:Visualization
+  schemaKey: Person
+  url: https://valeroneuroscience.com/
+- affiliation: []
+  email: gyorgy.buzsaki@nyumc.org
+  identifier: 0000-0002-3100-4800
+  includeInCitation: true
+  name: Buzsáki, György
+  roleName:
+  - dcite:Author
+  - dcite:Conceptualization
+  - dcite:FundingAcquisition
+  - dcite:Methodology
+  - dcite:ProjectAdministration
+  - dcite:Supervision
+  - dcite:Researcher
+  schemaKey: Person
+- affiliation: []
+  identifier: 0000-0001-8180-0816
+  includeInCitation: true
+  name: ' Zutshi, Ipshita'
+  roleName:
+  - dcite:Methodology
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  identifier: 0000-0002-2127-1200
+  includeInCitation: true
+  name: Yoon, Euisik
+  roleName:
+  - dcite:Author
+  - dcite:FundingAcquisition
+  - dcite:Supervision
+  - dcite:ProjectAdministration
   schemaKey: Person
 dateCreated: '2023-06-28T15:39:24.241528+00:00'
-datePublished: '2023-06-30T09:25:24.001481+00:00'
 description: Understanding how excitatory (E) and inhibitory (I) inputs are integrated
   by neurons requires monitoring their subthreshold behavior. We probed the subthreshold
   dynamics using optogenetic depolarizing pulses in hippocampal neuronal assemblies
@@ -32,28 +127,28 @@ description: Understanding how excitatory (E) and inhibitory (I) inputs are inte
   of both place cells and unmasked preexisting place fields of non–place cells during
   track running. Thus, indirect probing of subthreshold dynamics in neuronal populations
   permits the disclosing of preexisting assemblies and modes of neuronal operations.
-doi: 10.80507/dandi.123456/0.123456.1234
+ethicsApproval:
+- {}
 id: DANDI:000568/draft
 identifier: DANDI:000568
+keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000568/versions/draft/assets/
 name: Probing subthreshold dynamics of hippocampal neurons by pulsed optogenetics
-publishedBy:
-  endDate: '2023-06-30T09:25:24.001481+00:00'
-  id: urn:uuid:3e7679a6-fcfb-44df-9b36-b58300127c0c
-  name: DANDI publish
-  schemaKey: PublishActivity
-  startDate: '2023-06-30T09:25:24.001481+00:00'
-  wasAssociatedWith:
-  - id: urn:uuid:540ecd4a-706f-4104-aa6d-9e0d3469041f
-    identifier: RRID:SCR_017571
-    name: DANDI API
-    schemaKey: Software
-    version: 0.1.0
+protocol: []
+relatedResource:
+- identifier: https://doi.org/10.1126/science.abm1891
+  name: ' Probing subthreshold dynamics of hippocampal neurons by pulsed optogenetics'
+  relation: dcite:IsDescribedBy
+  repository: Science
+  schemaKey: Resource
+  url: https://www.science.org/doi/10.1126/science.abm1891
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000568/draft
 version: draft
+wasGeneratedBy: []
