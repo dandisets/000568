@@ -11,6 +11,8 @@ assetsSummary:
     schemaKey: ApproachType
   - name: electrophysiological approach
     schemaKey: ApproachType
+  - name: optogenetic approach
+    schemaKey: ApproachType
   dataStandard:
   - identifier: RRID:SCR_015242
     name: Neurodata Without Borders (NWB)
@@ -28,9 +30,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 9642473917
-  numberOfFiles: 17
-  numberOfSubjects: 1
+  numberOfBytes: 49479252728
+  numberOfFiles: 22
+  numberOfSubjects: 2
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
@@ -44,8 +46,9 @@ assetsSummary:
   - ElectricalSeries
   - Position
   - ProcessingModule
+  - OptogeneticSeries
 citation: Mayorquin, Heberto (2023) Probing subthreshold dynamics of hippocampal neurons
-  by pulsed optogenetics (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000568/draft
+  by pulsed optogenetics (Version draft) [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
 contributor:
 - affiliation: []
   email: h.mayorquin@gmail.com
@@ -55,6 +58,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2023-06-28T15:39:24.241528+00:00'
+datePublished: '2023-06-30T02:33:05.758781+00:00'
 description: Understanding how excitatory (E) and inhibitory (I) inputs are integrated
   by neurons requires monitoring their subthreshold behavior. We probed the subthreshold
   dynamics using optogenetic depolarizing pulses in hippocampal neuronal assemblies
@@ -66,6 +70,7 @@ description: Understanding how excitatory (E) and inhibitory (I) inputs are inte
   of both place cells and unmasked preexisting place fields of non–place cells during
   track running. Thus, indirect probing of subthreshold dynamics in neuronal populations
   permits the disclosing of preexisting assemblies and modes of neuronal operations.
+doi: 10.80507/dandi.123456/0.123456.1234
 id: DANDI:000568/draft
 identifier: DANDI:000568
 license:
@@ -73,6 +78,18 @@ license:
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000568/versions/draft/assets/
 name: Probing subthreshold dynamics of hippocampal neurons by pulsed optogenetics
+publishedBy:
+  endDate: '2023-06-30T02:33:05.758781+00:00'
+  id: urn:uuid:f02da830-8cc5-4171-84f4-6e830fb9ad82
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2023-06-30T02:33:05.758781+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:9c91dabc-887b-4f99-8d89-ed2a7e507b70
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
