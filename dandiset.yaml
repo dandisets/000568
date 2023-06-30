@@ -10,9 +10,47 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 1
-  numberOfFiles: 1
+  approach:
+  - name: behavioral approach
+    schemaKey: ApproachType
+  - name: electrophysiological approach
+    schemaKey: ApproachType
+  - name: optogenetic approach
+    schemaKey: ApproachType
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: spike sorting technique
+    schemaKey: MeasurementTechniqueType
+  - name: behavioral technique
+    schemaKey: MeasurementTechniqueType
+  - name: signal filtering technique
+    schemaKey: MeasurementTechniqueType
+  - name: analytical technique
+    schemaKey: MeasurementTechniqueType
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  - name: multi electrode extracellular electrophysiology recording technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 645729180474
+  numberOfFiles: 61
+  numberOfSubjects: 4
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+    name: Mus musculus - House mouse
+    schemaKey: SpeciesType
+  variableMeasured:
+  - LFP
+  - Units
+  - SpatialSeries
+  - ElectrodeGroup
+  - ElectricalSeries
+  - Position
+  - ProcessingModule
+  - OptogeneticSeries
 citation: Valero, Manuel;  Zutshi, Ipshita; Yoon, Euisik; Buzsáki, György (2023) Probing
   subthreshold dynamics of hippocampal neurons by pulsed optogenetics (Version draft)
   [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
