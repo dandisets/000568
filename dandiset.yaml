@@ -52,8 +52,8 @@ assetsSummary:
   - ProcessingModule
   - OptogeneticSeries
 citation: Valero, Manuel;  Zutshi, Ipshita; Yoon, Euisik; Buzsáki, György (2023) Probing
-  subthreshold dynamics of hippocampal neurons by pulsed optogenetics (Version draft)
-  [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  subthreshold dynamics of hippocampal neurons by pulsed optogenetics (Version 0.230705.1633)
+  [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000568/0.230705.1633
 contributor:
 - affiliation: []
   email: valegarman@gmail.com
@@ -183,15 +183,15 @@ description: Understanding how excitatory (E) and inhibitory (I) inputs are inte
   of both place cells and unmasked preexisting place fields of non–place cells during
   track running. Thus, indirect probing of subthreshold dynamics in neuronal populations
   permits the disclosing of preexisting assemblies and modes of neuronal operations.
-doi: 10.80507/dandi.123456/0.123456.1234
+doi: 10.48324/dandi.000568/0.230705.1633
 ethicsApproval: []
-id: DANDI:000568/draft
+id: DANDI:000568/0.230705.1633
 identifier: DANDI:000568
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000568/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000568/0.230705.1633/assets.yaml
 name: Probing subthreshold dynamics of hippocampal neurons by pulsed optogenetics
 protocol: []
 publishedBy:
@@ -217,6 +217,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000568/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000568/0.230705.1633
+version: 0.230705.1633
 wasGeneratedBy: []
