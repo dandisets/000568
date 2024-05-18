@@ -5,7 +5,7 @@
 "blob":
 "8cf38e36-6cd8-4c10-9d74-c2e6be70f019",
 "created":
-"2023-07-04T17:13:33.881397+00:00",
+"2023-07-04T17:13:33.881397Z",
 "metadata":
 {
 "@context":
@@ -263,7 +263,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.172173+00:00",
+"2023-07-05T16:33:31.172173Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200827-sess9-no-raw-data_behavior+ecephys+image+ogen.nwb",
 "size":
@@ -275,7 +275,7 @@
 "blob":
 "79f50f6d-501a-4bb4-ad07-ff5abb545f48",
 "created":
-"2023-07-04T17:12:31.614042+00:00",
+"2023-07-04T17:12:31.614042Z",
 "metadata":
 {
 "@context":
@@ -383,7 +383,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.074352+00:00",
+"2023-07-05T16:33:31.074352Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200827-sess9-no-raw-data_behavior+ecephys+image+ogen/5fe28cbc-aa73-4556-b83e-3820267be98d_external_file_0.avi",
 "size":
@@ -395,7 +395,7 @@
 "blob":
 "92535519-c198-4a40-a9f6-a23469c74844",
 "created":
-"2023-06-30T03:28:44.467305+00:00",
+"2023-06-30T03:28:44.467305Z",
 "metadata":
 {
 "@context":
@@ -677,7 +677,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.632877+00:00",
+"2023-07-05T16:33:30.632877Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200827-sess9_behavior+ecephys+image+ogen.nwb",
 "size":
@@ -689,7 +689,7 @@
 "blob":
 "79f50f6d-501a-4bb4-ad07-ff5abb545f48",
 "created":
-"2023-06-29T23:21:09.665548+00:00",
+"2023-06-29T23:21:09.665548Z",
 "metadata":
 {
 "@context":
@@ -797,7 +797,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.456151+00:00",
+"2023-07-05T16:33:30.456151Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200827-sess9_behavior+ecephys+image+ogen/f8fd9725-9333-4ca5-8ca6-58e3bbd02c7a_external_file_0.avi",
 "size":
@@ -809,7 +809,7 @@
 "blob":
 "914afbee-56bf-4524-a763-01e7b4726000",
 "created":
-"2023-07-04T17:13:30.938056+00:00",
+"2023-07-04T17:13:30.938056Z",
 "metadata":
 {
 "@context":
@@ -1067,7 +1067,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.370249+00:00",
+"2023-07-05T16:33:31.370249Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200901-sess12-no-raw-data_behavior+ecephys+image+ogen.nwb",
 "size":
@@ -1079,7 +1079,7 @@
 "blob":
 "1641a7c3-16fb-4fe6-8d71-fcbfc3120c08",
 "created":
-"2023-07-04T17:12:34.057549+00:00",
+"2023-07-04T17:12:34.057549Z",
 "metadata":
 {
 "@context":
@@ -1187,7 +1187,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.350651+00:00",
+"2023-07-05T16:33:31.350651Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200901-sess12-no-raw-data_behavior+ecephys+image+ogen/20e4f76d-87c3-4af0-b9db-62f1750e2be7_external_file_0.avi",
 "size":
@@ -1199,7 +1199,7 @@
 "blob":
 "78378706-3a2b-47ec-806a-41db9afb1402",
 "created":
-"2023-06-30T02:51:45.010432+00:00",
+"2023-06-30T02:51:45.010432Z",
 "metadata":
 {
 "@context":
@@ -1481,7 +1481,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.472879+00:00",
+"2023-07-05T16:33:30.472879Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200901-sess12_behavior+ecephys+image+ogen.nwb",
 "size":
@@ -1493,7 +1493,7 @@
 "blob":
 "1641a7c3-16fb-4fe6-8d71-fcbfc3120c08",
 "created":
-"2023-06-29T23:21:10.025532+00:00",
+"2023-06-29T23:21:10.025532Z",
 "metadata":
 {
 "@context":
@@ -1601,7 +1601,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.482351+00:00",
+"2023-07-05T16:33:30.482351Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200901-sess12_behavior+ecephys+image+ogen/89ebdad6-2d0c-482a-a3c3-360aff9a35a3_external_file_0.avi",
 "size":
@@ -1613,7 +1613,7 @@
 "blob":
 "2d504fba-34a9-4938-b25b-907ea25041dc",
 "created":
-"2023-07-04T17:13:25.493702+00:00",
+"2023-07-04T17:13:25.493702Z",
 "metadata":
 {
 "@context":
@@ -1859,7 +1859,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.564690+00:00",
+"2023-07-05T16:33:31.564690Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200902-sess13-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -1871,7 +1871,7 @@
 "blob":
 "30b9646b-a9d3-40e6-8d8a-d356ef6553c2",
 "created":
-"2023-07-04T17:12:33.039711+00:00",
+"2023-07-04T17:12:33.039711Z",
 "metadata":
 {
 "@context":
@@ -1979,7 +1979,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.547633+00:00",
+"2023-07-05T16:33:31.547633Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200902-sess13-no-raw-data_behavior+ecephys+image/383c6162-5c5c-4b82-a2cd-6473e66831c2_external_file_0.avi",
 "size":
@@ -1991,7 +1991,7 @@
 "blob":
 "d01527aa-10c1-42a5-ab6b-c4fecb3af558",
 "created":
-"2023-06-29T23:33:46.304071+00:00",
+"2023-06-29T23:33:46.304071Z",
 "metadata":
 {
 "@context":
@@ -2261,7 +2261,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.793081+00:00",
+"2023-07-05T16:33:30.793081Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200902-sess13_behavior+ecephys+image.nwb",
 "size":
@@ -2273,7 +2273,7 @@
 "blob":
 "30b9646b-a9d3-40e6-8d8a-d356ef6553c2",
 "created":
-"2023-06-29T23:21:09.291440+00:00",
+"2023-06-29T23:21:09.291440Z",
 "metadata":
 {
 "@context":
@@ -2381,7 +2381,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.419321+00:00",
+"2023-07-05T16:33:30.419321Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200902-sess13_behavior+ecephys+image/ee253149-84cc-47d3-b06f-287c51eb3771_external_file_0.avi",
 "size":
@@ -2393,7 +2393,7 @@
 "blob":
 "315a2909-9d4a-4a6c-b349-4ed9dd1245ab",
 "created":
-"2023-07-04T17:13:28.259189+00:00",
+"2023-07-04T17:13:28.259189Z",
 "metadata":
 {
 "@context":
@@ -2639,7 +2639,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.573333+00:00",
+"2023-07-05T16:33:31.573333Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200904-sess15-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -2651,7 +2651,7 @@
 "blob":
 "1478902e-b250-4845-8514-6d25a27332f2",
 "created":
-"2023-07-04T17:12:39.661731+00:00",
+"2023-07-04T17:12:39.661731Z",
 "metadata":
 {
 "@context":
@@ -2759,7 +2759,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.555968+00:00",
+"2023-07-05T16:33:31.555968Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200904-sess15-no-raw-data_behavior+ecephys+image/7dd58de7-a732-43dd-851f-0588073311e1_external_file_0.avi",
 "size":
@@ -2771,7 +2771,7 @@
 "blob":
 "907df459-7b55-40b1-9f43-92f6ba45f664",
 "created":
-"2023-06-29T23:33:46.564603+00:00",
+"2023-06-29T23:33:46.564603Z",
 "metadata":
 {
 "@context":
@@ -3041,7 +3041,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.855717+00:00",
+"2023-07-05T16:33:30.855717Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200904-sess15_behavior+ecephys+image.nwb",
 "size":
@@ -3053,7 +3053,7 @@
 "blob":
 "1478902e-b250-4845-8514-6d25a27332f2",
 "created":
-"2023-06-29T23:21:21.918018+00:00",
+"2023-06-29T23:21:21.918018Z",
 "metadata":
 {
 "@context":
@@ -3161,7 +3161,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.464747+00:00",
+"2023-07-05T16:33:30.464747Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200904-sess15_behavior+ecephys+image/765f9a64-c0a0-44e7-bd9b-6806ad83c6a1_external_file_0.avi",
 "size":
@@ -3173,7 +3173,7 @@
 "blob":
 "950cb7d0-6064-4074-b049-db1fa4badc13",
 "created":
-"2023-07-04T17:13:28.235186+00:00",
+"2023-07-04T17:13:28.235186Z",
 "metadata":
 {
 "@context":
@@ -3419,7 +3419,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.359194+00:00",
+"2023-07-05T16:33:31.359194Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200908-sess16-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -3431,7 +3431,7 @@
 "blob":
 "21449753-0e4e-4c40-b8c9-ab0d57752dda",
 "created":
-"2023-07-04T17:12:45.072381+00:00",
+"2023-07-04T17:12:45.072381Z",
 "metadata":
 {
 "@context":
@@ -3539,7 +3539,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.153031+00:00",
+"2023-07-05T16:33:31.153031Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200908-sess16-no-raw-data_behavior+ecephys+image/c9c02369-64af-4c4e-952e-21747cacb081_external_file_0.avi",
 "size":
@@ -3551,7 +3551,7 @@
 "blob":
 "2e93e402-e008-44b8-aa5f-098f3f45a6dd",
 "created":
-"2023-06-29T23:36:51.244046+00:00",
+"2023-06-29T23:36:51.244046Z",
 "metadata":
 {
 "@context":
@@ -3821,7 +3821,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.802194+00:00",
+"2023-07-05T16:33:30.802194Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200908-sess16_behavior+ecephys+image.nwb",
 "size":
@@ -3833,7 +3833,7 @@
 "blob":
 "21449753-0e4e-4c40-b8c9-ab0d57752dda",
 "created":
-"2023-06-29T23:22:41.736018+00:00",
+"2023-06-29T23:22:41.736018Z",
 "metadata":
 {
 "@context":
@@ -3941,7 +3941,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.510612+00:00",
+"2023-07-05T16:33:30.510612Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200908-sess16_behavior+ecephys+image/62940430-4678-48cd-81f6-f2e330376f17_external_file_0.avi",
 "size":
@@ -3953,7 +3953,7 @@
 "blob":
 "f14688ac-cd39-4130-9dee-06ae815a4e06",
 "created":
-"2023-07-04T17:14:15.394901+00:00",
+"2023-07-04T17:14:15.394901Z",
 "metadata":
 {
 "@context":
@@ -4199,7 +4199,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.598699+00:00",
+"2023-07-05T16:33:31.598699Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200909-sess17-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -4211,7 +4211,7 @@
 "blob":
 "055548e9-0f82-4787-9145-ee46012c713e",
 "created":
-"2023-07-04T17:13:26.352107+00:00",
+"2023-07-04T17:13:26.352107Z",
 "metadata":
 {
 "@context":
@@ -4319,7 +4319,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.162584+00:00",
+"2023-07-05T16:33:31.162584Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200909-sess17-no-raw-data_behavior+ecephys+image/e92e81f0-7e77-4827-88a7-01f014b6542a_external_file_0.avi",
 "size":
@@ -4331,7 +4331,7 @@
 "blob":
 "cb5942ff-5bc4-4beb-a472-29779f6f9c80",
 "created":
-"2023-06-29T23:47:34.259100+00:00",
+"2023-06-29T23:47:34.259100Z",
 "metadata":
 {
 "@context":
@@ -4601,7 +4601,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.931075+00:00",
+"2023-07-05T16:33:30.931075Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200909-sess17_behavior+ecephys+image.nwb",
 "size":
@@ -4613,7 +4613,7 @@
 "blob":
 "055548e9-0f82-4787-9145-ee46012c713e",
 "created":
-"2023-06-29T23:36:02.728881+00:00",
+"2023-06-29T23:36:02.728881Z",
 "metadata":
 {
 "@context":
@@ -4721,7 +4721,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.865262+00:00",
+"2023-07-05T16:33:30.865262Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200909-sess17_behavior+ecephys+image/f3253c08-8d14-4b6c-8a71-eeb7528df3dd_external_file_0.avi",
 "size":
@@ -4733,7 +4733,7 @@
 "blob":
 "90370dd2-6971-4fbf-9ebc-f4d28cfafac9",
 "created":
-"2023-07-04T17:14:18.172358+00:00",
+"2023-07-04T17:14:18.172358Z",
 "metadata":
 {
 "@context":
@@ -4979,7 +4979,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.222932+00:00",
+"2023-07-05T16:33:31.222932Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200910-sess18-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -4991,7 +4991,7 @@
 "blob":
 "066b4bd5-e7be-406c-946f-6dce2f73dc05",
 "created":
-"2023-07-04T17:13:31.269132+00:00",
+"2023-07-04T17:13:31.269132Z",
 "metadata":
 {
 "@context":
@@ -5099,7 +5099,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.082905+00:00",
+"2023-07-05T16:33:31.082905Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200910-sess18-no-raw-data_behavior+ecephys+image/d577a551-4ceb-4c50-aa85-6ea98d56bbe0_external_file_0.avi",
 "size":
@@ -5111,7 +5111,7 @@
 "blob":
 "4a0d9d07-4f95-4f89-a1ac-c811ac179d94",
 "created":
-"2023-06-29T23:56:12.007574+00:00",
+"2023-06-29T23:56:12.007574Z",
 "metadata":
 {
 "@context":
@@ -5381,7 +5381,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.984111+00:00",
+"2023-07-05T16:33:30.984111Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200910-sess18_behavior+ecephys+image.nwb",
 "size":
@@ -5393,7 +5393,7 @@
 "blob":
 "066b4bd5-e7be-406c-946f-6dce2f73dc05",
 "created":
-"2023-06-29T23:37:57.215031+00:00",
+"2023-06-29T23:37:57.215031Z",
 "metadata":
 {
 "@context":
@@ -5501,7 +5501,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.704631+00:00",
+"2023-07-05T16:33:30.704631Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200910-sess18_behavior+ecephys+image/fd317913-8dc4-431d-899d-2d331c5abd03_external_file_0.avi",
 "size":
@@ -5513,7 +5513,7 @@
 "blob":
 "db32dba0-70d2-4a0e-b65a-41700baf86f6",
 "created":
-"2023-07-04T17:14:13.180649+00:00",
+"2023-07-04T17:14:13.180649Z",
 "metadata":
 {
 "@context":
@@ -5759,7 +5759,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.391420+00:00",
+"2023-07-05T16:33:31.391420Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200911-sess19-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -5771,7 +5771,7 @@
 "blob":
 "0814ea06-e851-4288-817d-26b54fa8ef01",
 "created":
-"2023-07-04T17:13:35.046000+00:00",
+"2023-07-04T17:13:35.046000Z",
 "metadata":
 {
 "@context":
@@ -5879,7 +5879,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.183128+00:00",
+"2023-07-05T16:33:31.183128Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200911-sess19-no-raw-data_behavior+ecephys+image/1cdcc0bc-f2fe-4c23-88f1-9d15ccb9cf72_external_file_0.avi",
 "size":
@@ -5891,7 +5891,7 @@
 "blob":
 "df5955f6-e091-434e-bcf1-9fb350393278",
 "created":
-"2023-06-29T23:54:50.565937+00:00",
+"2023-06-29T23:54:50.565937Z",
 "metadata":
 {
 "@context":
@@ -6161,7 +6161,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.974669+00:00",
+"2023-07-05T16:33:30.974669Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200911-sess19_behavior+ecephys+image.nwb",
 "size":
@@ -6173,7 +6173,7 @@
 "blob":
 "0814ea06-e851-4288-817d-26b54fa8ef01",
 "created":
-"2023-06-29T23:40:39.112340+00:00",
+"2023-06-29T23:40:39.112340Z",
 "metadata":
 {
 "@context":
@@ -6281,7 +6281,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.939602+00:00",
+"2023-07-05T16:33:30.939602Z",
 "path":
 "sub-fCamk1/sub-fCamk1_ses-fCamk1-200911-sess19_behavior+ecephys+image/36df887d-2dfd-4aea-bfae-785468c1865e_external_file_0.avi",
 "size":
@@ -6293,7 +6293,7 @@
 "blob":
 "84baa446-cf19-43e8-bdeb-fc804852279b",
 "created":
-"2023-07-04T17:14:07.152244+00:00",
+"2023-07-04T17:14:07.152244Z",
 "metadata":
 {
 "@context":
@@ -6539,7 +6539,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.582512+00:00",
+"2023-07-05T16:33:31.582512Z",
 "path":
 "sub-fCamk2/sub-fCamk2_ses-fCamk2-201012-sess1-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -6551,7 +6551,7 @@
 "blob":
 "29ba5b55-dd77-4428-b7d7-dbfb19e1dd10",
 "created":
-"2023-07-04T17:13:36.224938+00:00",
+"2023-07-04T17:13:36.224938Z",
 "metadata":
 {
 "@context":
@@ -6659,7 +6659,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.192932+00:00",
+"2023-07-05T16:33:31.192932Z",
 "path":
 "sub-fCamk2/sub-fCamk2_ses-fCamk2-201012-sess1-no-raw-data_behavior+ecephys+image/16972947-eefc-4fc8-9817-75ea8ad3b3ab_external_file_0.avi",
 "size":
@@ -6671,7 +6671,7 @@
 "blob":
 "d5b233ac-3b4d-48f6-b61f-92c18197f9fd",
 "created":
-"2023-06-30T02:32:24.439314+00:00",
+"2023-06-30T02:32:24.439314Z",
 "metadata":
 {
 "@context":
@@ -6941,7 +6941,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.435492+00:00",
+"2023-07-05T16:33:30.435492Z",
 "path":
 "sub-fCamk2/sub-fCamk2_ses-fCamk2-201012-sess1_behavior+ecephys+image.nwb",
 "size":
@@ -6953,7 +6953,7 @@
 "blob":
 "29ba5b55-dd77-4428-b7d7-dbfb19e1dd10",
 "created":
-"2023-06-29T23:49:48.005830+00:00",
+"2023-06-29T23:49:48.005830Z",
 "metadata":
 {
 "@context":
@@ -7061,7 +7061,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.957387+00:00",
+"2023-07-05T16:33:30.957387Z",
 "path":
 "sub-fCamk2/sub-fCamk2_ses-fCamk2-201012-sess1_behavior+ecephys+image/94264320-946f-4fb1-bf52-2328f8c7751f_external_file_0.avi",
 "size":
@@ -7073,7 +7073,7 @@
 "blob":
 "f5e36a1e-5943-44fb-afc7-36b20e64ed24",
 "created":
-"2023-07-04T17:14:07.848635+00:00",
+"2023-07-04T17:14:07.848635Z",
 "metadata":
 {
 "@context":
@@ -7319,7 +7319,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.378980+00:00",
+"2023-07-05T16:33:31.378980Z",
 "path":
 "sub-fCamk2/sub-fCamk2_ses-fCamk2-201013-sess2-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -7331,7 +7331,7 @@
 "blob":
 "dbffb440-a2bf-47a7-ab10-627c3dbadc3e",
 "created":
-"2023-07-04T17:13:38.897490+00:00",
+"2023-07-04T17:13:38.897490Z",
 "metadata":
 {
 "@context":
@@ -7439,7 +7439,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.201883+00:00",
+"2023-07-05T16:33:31.201883Z",
 "path":
 "sub-fCamk2/sub-fCamk2_ses-fCamk2-201013-sess2-no-raw-data_behavior+ecephys+image/3a51ff55-06a9-4596-89fb-b7ed985f8db8_external_file_0.avi",
 "size":
@@ -7451,7 +7451,7 @@
 "blob":
 "15cb28dd-7c03-4579-a0e5-cb0ad00db7e2",
 "created":
-"2023-06-30T04:00:25.570642+00:00",
+"2023-06-30T04:00:25.570642Z",
 "metadata":
 {
 "@context":
@@ -7721,7 +7721,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.530765+00:00",
+"2023-07-05T16:33:30.530765Z",
 "path":
 "sub-fCamk2/sub-fCamk2_ses-fCamk2-201013-sess2_behavior+ecephys+image.nwb",
 "size":
@@ -7733,7 +7733,7 @@
 "blob":
 "dbffb440-a2bf-47a7-ab10-627c3dbadc3e",
 "created":
-"2023-06-29T23:56:33.613524+00:00",
+"2023-06-29T23:56:33.613524Z",
 "metadata":
 {
 "@context":
@@ -7841,7 +7841,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.948738+00:00",
+"2023-07-05T16:33:30.948738Z",
 "path":
 "sub-fCamk2/sub-fCamk2_ses-fCamk2-201013-sess2_behavior+ecephys+image/b9a0ede3-57d6-4025-b10e-437e3ecb2c10_external_file_0.avi",
 "size":
@@ -7853,7 +7853,7 @@
 "blob":
 "424c2066-bb7f-47b5-881c-e7c49c442840",
 "created":
-"2023-07-04T17:14:42.664002+00:00",
+"2023-07-04T17:14:42.664002Z",
 "metadata":
 {
 "@context":
@@ -8099,7 +8099,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.246538+00:00",
+"2023-07-05T16:33:31.246538Z",
 "path":
 "sub-fCamk2/sub-fCamk2_ses-fCamk2-201014-sess3-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -8111,7 +8111,7 @@
 "blob":
 "d456de36-3e1a-46ea-bf7a-50b8a7c0e830",
 "created":
-"2023-07-04T17:14:08.151946+00:00",
+"2023-07-04T17:14:08.151946Z",
 "metadata":
 {
 "@context":
@@ -8219,7 +8219,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.092858+00:00",
+"2023-07-05T16:33:31.092858Z",
 "path":
 "sub-fCamk2/sub-fCamk2_ses-fCamk2-201014-sess3-no-raw-data_behavior+ecephys+image/29b59f05-7873-423b-87c1-e02fa4b63c6e_external_file_0.avi",
 "size":
@@ -8231,7 +8231,7 @@
 "blob":
 "9ff17dd0-05f5-4dcd-b6d1-0a5cfdb109a6",
 "created":
-"2023-06-30T03:18:08.956777+00:00",
+"2023-06-30T03:18:08.956777Z",
 "metadata":
 {
 "@context":
@@ -8501,7 +8501,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.522362+00:00",
+"2023-07-05T16:33:30.522362Z",
 "path":
 "sub-fCamk2/sub-fCamk2_ses-fCamk2-201014-sess3_behavior+ecephys+image.nwb",
 "size":
@@ -8513,7 +8513,7 @@
 "blob":
 "d456de36-3e1a-46ea-bf7a-50b8a7c0e830",
 "created":
-"2023-06-29T23:58:26.571998+00:00",
+"2023-06-29T23:58:26.571998Z",
 "metadata":
 {
 "@context":
@@ -8621,7 +8621,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.965709+00:00",
+"2023-07-05T16:33:30.965709Z",
 "path":
 "sub-fCamk2/sub-fCamk2_ses-fCamk2-201014-sess3_behavior+ecephys+image/6f7e9ff0-756c-4312-8e5a-67a072e2a7e2_external_file_0.avi",
 "size":
@@ -8633,7 +8633,7 @@
 "blob":
 "93187358-8722-4104-828b-999c49bc33b3",
 "created":
-"2023-07-04T17:14:45.231198+00:00",
+"2023-07-04T17:14:45.231198Z",
 "metadata":
 {
 "@context":
@@ -8879,7 +8879,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.419782+00:00",
+"2023-07-05T16:33:31.419782Z",
 "path":
 "sub-fCamk2/sub-fCamk2_ses-fCamk2-201015-sess4-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -8891,7 +8891,7 @@
 "blob":
 "c3303192-f833-4fb7-a03c-8b45701a290d",
 "created":
-"2023-07-04T17:14:10.024654+00:00",
+"2023-07-04T17:14:10.024654Z",
 "metadata":
 {
 "@context":
@@ -8999,7 +8999,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.590802+00:00",
+"2023-07-05T16:33:31.590802Z",
 "path":
 "sub-fCamk2/sub-fCamk2_ses-fCamk2-201015-sess4-no-raw-data_behavior+ecephys+image/382fee91-09d5-411f-8d1a-7a3559a68c4e_external_file_0.avi",
 "size":
@@ -9011,7 +9011,7 @@
 "blob":
 "01b28853-c5b6-4938-b9e9-14f56a7c0bbf",
 "created":
-"2023-06-30T04:50:11.514837+00:00",
+"2023-06-30T04:50:11.514837Z",
 "metadata":
 {
 "@context":
@@ -9281,7 +9281,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.540424+00:00",
+"2023-07-05T16:33:30.540424Z",
 "path":
 "sub-fCamk2/sub-fCamk2_ses-fCamk2-201015-sess4_behavior+ecephys+image.nwb",
 "size":
@@ -9293,7 +9293,7 @@
 "blob":
 "c3303192-f833-4fb7-a03c-8b45701a290d",
 "created":
-"2023-06-30T02:33:46.196024+00:00",
+"2023-06-30T02:33:46.196024Z",
 "metadata":
 {
 "@context":
@@ -9401,7 +9401,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.446623+00:00",
+"2023-07-05T16:33:30.446623Z",
 "path":
 "sub-fCamk2/sub-fCamk2_ses-fCamk2-201015-sess4_behavior+ecephys+image/c52d99e9-82d2-4d61-a30f-19fe99dee4d5_external_file_0.avi",
 "size":
@@ -9413,7 +9413,7 @@
 "blob":
 "6191f781-b577-4622-b8f7-15e04c514362",
 "created":
-"2023-07-01T00:28:31.616929+00:00",
+"2023-07-01T00:28:31.616929Z",
 "metadata":
 {
 "@context":
@@ -9683,7 +9683,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.052614+00:00",
+"2023-07-05T16:33:31.052614Z",
 "path":
 "sub-fCamk3/sub-fCamk3_behavior+ecephys+image.nwb",
 "size":
@@ -9695,7 +9695,7 @@
 "blob":
 "c0ee5f4b-1a5f-4269-ab6c-ed4ea1a58fca",
 "created":
-"2023-06-30T23:07:47.887943+00:00",
+"2023-06-30T23:07:47.887943Z",
 "metadata":
 {
 "@context":
@@ -9803,7 +9803,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.030906+00:00",
+"2023-07-05T16:33:31.030906Z",
 "path":
 "sub-fCamk3/sub-fCamk3_behavior+ecephys+image/59743f83-7f50-4622-be53-b391541b5ed5_external_file_0.avi",
 "size":
@@ -9815,7 +9815,7 @@
 "blob":
 "ef261b6b-ebf9-4c51-8cb8-4434d33f79e2",
 "created":
-"2023-07-04T17:15:07.641492+00:00",
+"2023-07-04T17:15:07.641492Z",
 "metadata":
 {
 "@context":
@@ -10061,7 +10061,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.267024+00:00",
+"2023-07-05T16:33:31.267024Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201028-sess10-cleanned-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -10073,7 +10073,7 @@
 "blob":
 "4acbc5a1-9be3-43fd-a66d-9155ccfe948c",
 "created":
-"2023-07-04T17:14:15.325701+00:00",
+"2023-07-04T17:14:15.325701Z",
 "metadata":
 {
 "@context":
@@ -10181,7 +10181,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.211286+00:00",
+"2023-07-05T16:33:31.211286Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201028-sess10-cleanned-no-raw-data_behavior+ecephys+image/a356f03a-cc45-421f-aa48-fd319445e5e3_external_file_0.avi",
 "size":
@@ -10193,7 +10193,7 @@
 "blob":
 "e05eaffc-f9b0-40af-b83b-264c13531491",
 "created":
-"2023-07-04T17:14:19.198487+00:00",
+"2023-07-04T17:14:19.198487Z",
 "metadata":
 {
 "@context":
@@ -10301,7 +10301,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.608574+00:00",
+"2023-07-05T16:33:31.608574Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201028-sess10-cleanned-no-raw-data_behavior+ecephys+image/a356f03a-cc45-421f-aa48-fd319445e5e3_external_file_1.avi",
 "size":
@@ -10313,7 +10313,7 @@
 "blob":
 "d5e17e6c-5bdc-4793-ac65-bcbeacea67e5",
 "created":
-"2023-06-30T05:41:16.394166+00:00",
+"2023-06-30T05:41:16.394166Z",
 "metadata":
 {
 "@context":
@@ -10583,7 +10583,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.548857+00:00",
+"2023-07-05T16:33:30.548857Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201028-sess10-cleanned_behavior+ecephys+image.nwb",
 "size":
@@ -10595,7 +10595,7 @@
 "blob":
 "4acbc5a1-9be3-43fd-a66d-9155ccfe948c",
 "created":
-"2023-06-30T02:54:30.839823+00:00",
+"2023-06-30T02:54:30.839823Z",
 "metadata":
 {
 "@context":
@@ -10703,7 +10703,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.490272+00:00",
+"2023-07-05T16:33:30.490272Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201028-sess10-cleanned_behavior+ecephys+image/f9383408-e96b-499d-b0de-20a79e4aa90b_external_file_0.avi",
 "size":
@@ -10715,7 +10715,7 @@
 "blob":
 "e05eaffc-f9b0-40af-b83b-264c13531491",
 "created":
-"2023-06-30T02:56:55.024427+00:00",
+"2023-06-30T02:56:55.024427Z",
 "metadata":
 {
 "@context":
@@ -10823,7 +10823,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.501250+00:00",
+"2023-07-05T16:33:30.501250Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201028-sess10-cleanned_behavior+ecephys+image/f9383408-e96b-499d-b0de-20a79e4aa90b_external_file_1.avi",
 "size":
@@ -10835,7 +10835,7 @@
 "blob":
 "345fdb9c-53ce-43b9-b782-cfd1460b1173",
 "created":
-"2023-07-04T17:15:06.767093+00:00",
+"2023-07-04T17:15:06.767093Z",
 "metadata":
 {
 "@context":
@@ -11081,7 +11081,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.635443+00:00",
+"2023-07-05T16:33:31.635443Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201029-sess11-cleanned-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -11093,7 +11093,7 @@
 "blob":
 "77333619-9fed-4243-ae93-761979c6c8a3",
 "created":
-"2023-07-04T17:14:24.265084+00:00",
+"2023-07-04T17:14:24.265084Z",
 "metadata":
 {
 "@context":
@@ -11201,7 +11201,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.401670+00:00",
+"2023-07-05T16:33:31.401670Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201029-sess11-cleanned-no-raw-data_behavior+ecephys+image/ef310d24-324f-448f-a580-5d9c791e5386_external_file_0.avi",
 "size":
@@ -11213,7 +11213,7 @@
 "blob":
 "07db64ad-31d8-41d0-86bc-252b09883eab",
 "created":
-"2023-07-04T17:14:25.395215+00:00",
+"2023-07-04T17:14:25.395215Z",
 "metadata":
 {
 "@context":
@@ -11321,7 +11321,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.101736+00:00",
+"2023-07-05T16:33:31.101736Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201029-sess11-cleanned-no-raw-data_behavior+ecephys+image/ef310d24-324f-448f-a580-5d9c791e5386_external_file_1.avi",
 "size":
@@ -11333,7 +11333,7 @@
 "blob":
 "80dc4460-7652-4b88-97ce-69a7e8be5d60",
 "created":
-"2023-06-30T17:01:39.169456+00:00",
+"2023-06-30T17:01:39.169456Z",
 "metadata":
 {
 "@context":
@@ -11603,7 +11603,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.820111+00:00",
+"2023-07-05T16:33:30.820111Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201029-sess11-cleanned_behavior+ecephys+image.nwb",
 "size":
@@ -11615,7 +11615,7 @@
 "blob":
 "77333619-9fed-4243-ae93-761979c6c8a3",
 "created":
-"2023-06-30T09:13:51.519484+00:00",
+"2023-06-30T09:13:51.519484Z",
 "metadata":
 {
 "@context":
@@ -11723,7 +11723,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.557210+00:00",
+"2023-07-05T16:33:30.557210Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201029-sess11-cleanned_behavior+ecephys+image/3a238ecd-a8e6-417b-b792-1af4db8ec2ce_external_file_0.avi",
 "size":
@@ -11735,7 +11735,7 @@
 "blob":
 "07db64ad-31d8-41d0-86bc-252b09883eab",
 "created":
-"2023-06-30T09:14:08.080603+00:00",
+"2023-06-30T09:14:08.080603Z",
 "metadata":
 {
 "@context":
@@ -11843,7 +11843,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.569696+00:00",
+"2023-07-05T16:33:30.569696Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201029-sess11-cleanned_behavior+ecephys+image/3a238ecd-a8e6-417b-b792-1af4db8ec2ce_external_file_1.avi",
 "size":
@@ -11855,7 +11855,7 @@
 "blob":
 "f5bc1f1b-2caf-421e-9ea6-0d10767e11cc",
 "created":
-"2023-07-04T17:15:11.988706+00:00",
+"2023-07-04T17:15:11.988706Z",
 "metadata":
 {
 "@context":
@@ -12101,7 +12101,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.111027+00:00",
+"2023-07-05T16:33:31.111027Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201030-sess12-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -12113,7 +12113,7 @@
 "blob":
 "b13edc28-04e6-433e-ab6d-e2746bcd9fe3",
 "created":
-"2023-07-04T17:14:28.963319+00:00",
+"2023-07-04T17:14:28.963319Z",
 "metadata":
 {
 "@context":
@@ -12221,7 +12221,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.410547+00:00",
+"2023-07-05T16:33:31.410547Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201030-sess12-no-raw-data_behavior+ecephys+image/5f5265c6-5972-44c8-9024-86a144d9d306_external_file_0.avi",
 "size":
@@ -12233,7 +12233,7 @@
 "blob":
 "392337f5-9e07-441b-a68b-1a0718883073",
 "created":
-"2023-07-04T17:14:32.801813+00:00",
+"2023-07-04T17:14:32.801813Z",
 "metadata":
 {
 "@context":
@@ -12341,7 +12341,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.235799+00:00",
+"2023-07-05T16:33:31.235799Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201030-sess12-no-raw-data_behavior+ecephys+image/5f5265c6-5972-44c8-9024-86a144d9d306_external_file_1.avi",
 "size":
@@ -12353,7 +12353,7 @@
 "blob":
 "50e2c263-0870-4f0d-afb2-97021494a0eb",
 "created":
-"2023-06-30T17:05:48.585443+00:00",
+"2023-06-30T17:05:48.585443Z",
 "metadata":
 {
 "@context":
@@ -12623,7 +12623,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.829316+00:00",
+"2023-07-05T16:33:30.829316Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201030-sess12_behavior+ecephys+image.nwb",
 "size":
@@ -12635,7 +12635,7 @@
 "blob":
 "b13edc28-04e6-433e-ab6d-e2746bcd9fe3",
 "created":
-"2023-06-30T09:14:01.001860+00:00",
+"2023-06-30T09:14:01.001860Z",
 "metadata":
 {
 "@context":
@@ -12743,7 +12743,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.643271+00:00",
+"2023-07-05T16:33:30.643271Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201030-sess12_behavior+ecephys+image/98a8643b-4877-4cd5-a6d4-6adf47b65dfe_external_file_0.avi",
 "size":
@@ -12755,7 +12755,7 @@
 "blob":
 "392337f5-9e07-441b-a68b-1a0718883073",
 "created":
-"2023-06-30T09:14:24.163923+00:00",
+"2023-06-30T09:14:24.163923Z",
 "metadata":
 {
 "@context":
@@ -12863,7 +12863,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.713473+00:00",
+"2023-07-05T16:33:30.713473Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201030-sess12_behavior+ecephys+image/98a8643b-4877-4cd5-a6d4-6adf47b65dfe_external_file_1.avi",
 "size":
@@ -12875,7 +12875,7 @@
 "blob":
 "d47b1500-50d1-4e02-a34b-49593e23bcfb",
 "created":
-"2023-07-04T17:15:15.291160+00:00",
+"2023-07-04T17:15:15.291160Z",
 "metadata":
 {
 "@context":
@@ -13121,7 +13121,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.122940+00:00",
+"2023-07-05T16:33:31.122940Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201102-sess13-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -13133,7 +13133,7 @@
 "blob":
 "6bb27470-3ae7-4630-8ac4-3e8951d89b10",
 "created":
-"2023-07-04T17:14:45.042789+00:00",
+"2023-07-04T17:14:45.042789Z",
 "metadata":
 {
 "@context":
@@ -13241,7 +13241,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.616960+00:00",
+"2023-07-05T16:33:31.616960Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201102-sess13-no-raw-data_behavior+ecephys+image/afe144e1-8b59-4b14-8a03-2a14c80de8ad_external_file_0.avi",
 "size":
@@ -13253,7 +13253,7 @@
 "blob":
 "7c49b132-aa8d-4afd-844b-18970c3eef3b",
 "created":
-"2023-07-04T17:14:47.641123+00:00",
+"2023-07-04T17:14:47.641123Z",
 "metadata":
 {
 "@context":
@@ -13361,7 +13361,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.432805+00:00",
+"2023-07-05T16:33:31.432805Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201102-sess13-no-raw-data_behavior+ecephys+image/afe144e1-8b59-4b14-8a03-2a14c80de8ad_external_file_1.avi",
 "size":
@@ -13373,7 +13373,7 @@
 "blob":
 "4154c0dc-b159-4c49-860b-5f77f8697a14",
 "created":
-"2023-06-30T16:56:18.321506+00:00",
+"2023-06-30T16:56:18.321506Z",
 "metadata":
 {
 "@context":
@@ -13643,7 +13643,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.670217+00:00",
+"2023-07-05T16:33:30.670217Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201102-sess13_behavior+ecephys+image.nwb",
 "size":
@@ -13655,7 +13655,7 @@
 "blob":
 "6bb27470-3ae7-4630-8ac4-3e8951d89b10",
 "created":
-"2023-06-30T09:14:27.044587+00:00",
+"2023-06-30T09:14:27.044587Z",
 "metadata":
 {
 "@context":
@@ -13763,7 +13763,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.722405+00:00",
+"2023-07-05T16:33:30.722405Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201102-sess13_behavior+ecephys+image/4c80e99c-2003-4136-89b7-75c002b7556b_external_file_0.avi",
 "size":
@@ -13775,7 +13775,7 @@
 "blob":
 "7c49b132-aa8d-4afd-844b-18970c3eef3b",
 "created":
-"2023-06-30T09:14:26.621619+00:00",
+"2023-06-30T09:14:26.621619Z",
 "metadata":
 {
 "@context":
@@ -13883,7 +13883,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.579334+00:00",
+"2023-07-05T16:33:30.579334Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201102-sess13_behavior+ecephys+image/4c80e99c-2003-4136-89b7-75c002b7556b_external_file_1.avi",
 "size":
@@ -13895,7 +13895,7 @@
 "blob":
 "d4707c98-f7cf-4219-9d85-97944ab525cb",
 "created":
-"2023-07-04T17:15:15.529987+00:00",
+"2023-07-04T17:15:15.529987Z",
 "metadata":
 {
 "@context":
@@ -14141,7 +14141,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.301366+00:00",
+"2023-07-05T16:33:31.301366Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201103-sess14-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -14153,7 +14153,7 @@
 "blob":
 "19c0a988-d3f5-4cc3-a4bb-a5afdb4e6852",
 "created":
-"2023-07-04T17:14:50.422440+00:00",
+"2023-07-04T17:14:50.422440Z",
 "metadata":
 {
 "@context":
@@ -14261,7 +14261,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.258115+00:00",
+"2023-07-05T16:33:31.258115Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201103-sess14-no-raw-data_behavior+ecephys+image/242080f5-8a8f-4367-9040-fb6785ceb5f3_external_file_0.avi",
 "size":
@@ -14273,7 +14273,7 @@
 "blob":
 "fdf597fa-b059-418d-b967-c7af50782b9b",
 "created":
-"2023-07-04T17:14:51.687920+00:00",
+"2023-07-04T17:14:51.687920Z",
 "metadata":
 {
 "@context":
@@ -14381,7 +14381,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.625864+00:00",
+"2023-07-05T16:33:31.625864Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201103-sess14-no-raw-data_behavior+ecephys+image/242080f5-8a8f-4367-9040-fb6785ceb5f3_external_file_1.avi",
 "size":
@@ -14393,7 +14393,7 @@
 "blob":
 "26c1bd4f-e120-45e5-a27d-54ad73cbae59",
 "created":
-"2023-06-30T17:00:59.971247+00:00",
+"2023-06-30T17:00:59.971247Z",
 "metadata":
 {
 "@context":
@@ -14663,7 +14663,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.740173+00:00",
+"2023-07-05T16:33:30.740173Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201103-sess14_behavior+ecephys+image.nwb",
 "size":
@@ -14675,7 +14675,7 @@
 "blob":
 "19c0a988-d3f5-4cc3-a4bb-a5afdb4e6852",
 "created":
-"2023-06-30T09:14:56.402198+00:00",
+"2023-06-30T09:14:56.402198Z",
 "metadata":
 {
 "@context":
@@ -14783,7 +14783,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.661133+00:00",
+"2023-07-05T16:33:30.661133Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201103-sess14_behavior+ecephys+image/14cd58af-1ba9-4bfc-a002-30781c54c3ae_external_file_0.avi",
 "size":
@@ -14795,7 +14795,7 @@
 "blob":
 "fdf597fa-b059-418d-b967-c7af50782b9b",
 "created":
-"2023-06-30T09:14:42.149768+00:00",
+"2023-06-30T09:14:42.149768Z",
 "metadata":
 {
 "@context":
@@ -14903,7 +14903,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.652193+00:00",
+"2023-07-05T16:33:30.652193Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201103-sess14_behavior+ecephys+image/14cd58af-1ba9-4bfc-a002-30781c54c3ae_external_file_1.avi",
 "size":
@@ -14915,7 +14915,7 @@
 "blob":
 "34fd5469-2cb3-42b6-b0e8-5f40abed4d8e",
 "created":
-"2023-07-04T17:15:40.223454+00:00",
+"2023-07-04T17:15:40.223454Z",
 "metadata":
 {
 "@context":
@@ -15161,7 +15161,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.470784+00:00",
+"2023-07-05T16:33:31.470784Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201105-sess16-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -15173,7 +15173,7 @@
 "blob":
 "c04a5f18-99de-4e8b-876d-5bcaec90d622",
 "created":
-"2023-07-04T17:15:07.664046+00:00",
+"2023-07-04T17:15:07.664046Z",
 "metadata":
 {
 "@context":
@@ -15281,7 +15281,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.444335+00:00",
+"2023-07-05T16:33:31.444335Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201105-sess16-no-raw-data_behavior+ecephys+image/c11e79f3-e653-4db1-bebe-38547df58447_external_file_0.avi",
 "size":
@@ -15293,7 +15293,7 @@
 "blob":
 "7cb7a360-294b-442d-880b-9e09e0c64723",
 "created":
-"2023-07-04T17:15:09.896932+00:00",
+"2023-07-04T17:15:09.896932Z",
 "metadata":
 {
 "@context":
@@ -15401,7 +15401,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.452752+00:00",
+"2023-07-05T16:33:31.452752Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201105-sess16-no-raw-data_behavior+ecephys+image/c11e79f3-e653-4db1-bebe-38547df58447_external_file_1.avi",
 "size":
@@ -15413,7 +15413,7 @@
 "blob":
 "e8b492bd-f47c-4aad-85f6-827d5a158109",
 "created":
-"2023-06-30T21:04:24.623211+00:00",
+"2023-06-30T21:04:24.623211Z",
 "metadata":
 {
 "@context":
@@ -15683,7 +15683,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.993547+00:00",
+"2023-07-05T16:33:30.993547Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201105-sess16_behavior+ecephys+image.nwb",
 "size":
@@ -15695,7 +15695,7 @@
 "blob":
 "c04a5f18-99de-4e8b-876d-5bcaec90d622",
 "created":
-"2023-06-30T19:47:05.519535+00:00",
+"2023-06-30T19:47:05.519535Z",
 "metadata":
 {
 "@context":
@@ -15803,7 +15803,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.883628+00:00",
+"2023-07-05T16:33:30.883628Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201105-sess16_behavior+ecephys+image/7716187e-6e17-43c0-bb4f-733397674d98_external_file_0.avi",
 "size":
@@ -15815,7 +15815,7 @@
 "blob":
 "7cb7a360-294b-442d-880b-9e09e0c64723",
 "created":
-"2023-06-30T19:47:09.835866+00:00",
+"2023-06-30T19:47:09.835866Z",
 "metadata":
 {
 "@context":
@@ -15923,7 +15923,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.892310+00:00",
+"2023-07-05T16:33:30.892310Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201105-sess16_behavior+ecephys+image/7716187e-6e17-43c0-bb4f-733397674d98_external_file_1.avi",
 "size":
@@ -15935,7 +15935,7 @@
 "blob":
 "7521ffe1-7bda-4c18-b184-2b61df19f929",
 "created":
-"2023-07-04T17:16:03.468861+00:00",
+"2023-07-04T17:16:03.468861Z",
 "metadata":
 {
 "@context":
@@ -16181,7 +16181,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.340542+00:00",
+"2023-07-05T16:33:31.340542Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201106-sess17-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -16193,7 +16193,7 @@
 "blob":
 "2076b9c9-b9b2-477b-8f0c-793d78a1cf09",
 "created":
-"2023-07-04T17:15:12.270689+00:00",
+"2023-07-04T17:15:12.270689Z",
 "metadata":
 {
 "@context":
@@ -16301,7 +16301,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.279075+00:00",
+"2023-07-05T16:33:31.279075Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201106-sess17-no-raw-data_behavior+ecephys+image/2ff16f8b-95be-442f-95ed-9f1eed078176_external_file_0.avi",
 "size":
@@ -16313,7 +16313,7 @@
 "blob":
 "f2195fc7-fc76-49fb-b0b7-0b87c3451a44",
 "created":
-"2023-07-04T17:15:14.036531+00:00",
+"2023-07-04T17:15:14.036531Z",
 "metadata":
 {
 "@context":
@@ -16421,7 +16421,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.292058+00:00",
+"2023-07-05T16:33:31.292058Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201106-sess17-no-raw-data_behavior+ecephys+image/2ff16f8b-95be-442f-95ed-9f1eed078176_external_file_1.avi",
 "size":
@@ -16433,7 +16433,7 @@
 "blob":
 "9a9cb25b-a39b-4a8d-ac25-3311207ecd29",
 "created":
-"2023-06-30T09:19:38.335303+00:00",
+"2023-06-30T09:19:38.335303Z",
 "metadata":
 {
 "@context":
@@ -16703,7 +16703,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.730891+00:00",
+"2023-07-05T16:33:30.730891Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201106-sess17_behavior+ecephys+image.nwb",
 "size":
@@ -16715,7 +16715,7 @@
 "blob":
 "2076b9c9-b9b2-477b-8f0c-793d78a1cf09",
 "created":
-"2023-06-30T09:15:37.829630+00:00",
+"2023-06-30T09:15:37.829630Z",
 "metadata":
 {
 "@context":
@@ -16823,7 +16823,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.587795+00:00",
+"2023-07-05T16:33:30.587795Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201106-sess17_behavior+ecephys+image/a197bda9-99d2-4bc5-8a97-09a913521375_external_file_0.avi",
 "size":
@@ -16835,7 +16835,7 @@
 "blob":
 "f2195fc7-fc76-49fb-b0b7-0b87c3451a44",
 "created":
-"2023-06-30T09:18:19.935212+00:00",
+"2023-06-30T09:18:19.935212Z",
 "metadata":
 {
 "@context":
@@ -16943,7 +16943,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.811443+00:00",
+"2023-07-05T16:33:30.811443Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201106-sess17_behavior+ecephys+image/a197bda9-99d2-4bc5-8a97-09a913521375_external_file_1.avi",
 "size":
@@ -16955,7 +16955,7 @@
 "blob":
 "8ff2c34f-ac1c-4788-be96-81b54f0d9f9b",
 "created":
-"2023-07-04T17:16:00.676596+00:00",
+"2023-07-04T17:16:00.676596Z",
 "metadata":
 {
 "@context":
@@ -17201,7 +17201,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.479859+00:00",
+"2023-07-05T16:33:31.479859Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201109-sess18-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -17213,7 +17213,7 @@
 "blob":
 "13c1c3b1-9b34-46a9-837f-f50cc623baa9",
 "created":
-"2023-07-04T17:15:18.339510+00:00",
+"2023-07-04T17:15:18.339510Z",
 "metadata":
 {
 "@context":
@@ -17321,7 +17321,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.133773+00:00",
+"2023-07-05T16:33:31.133773Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201109-sess18-no-raw-data_behavior+ecephys+image/1cd7beeb-5c97-46ec-aaad-627f01765e94_external_file_0.avi",
 "size":
@@ -17333,7 +17333,7 @@
 "blob":
 "92ffe009-f7f7-4f30-96db-d177539920f9",
 "created":
-"2023-07-04T17:15:20.018169+00:00",
+"2023-07-04T17:15:20.018169Z",
 "metadata":
 {
 "@context":
@@ -17441,7 +17441,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.310228+00:00",
+"2023-07-05T16:33:31.310228Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201109-sess18-no-raw-data_behavior+ecephys+image/1cd7beeb-5c97-46ec-aaad-627f01765e94_external_file_1.avi",
 "size":
@@ -17453,7 +17453,7 @@
 "blob":
 "da6471a1-0bdf-48e6-8445-d6acb7703a9b",
 "created":
-"2023-06-30T16:52:40.309215+00:00",
+"2023-06-30T16:52:40.309215Z",
 "metadata":
 {
 "@context":
@@ -17723,7 +17723,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.596913+00:00",
+"2023-07-05T16:33:30.596913Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201109-sess18_behavior+ecephys+image.nwb",
 "size":
@@ -17735,7 +17735,7 @@
 "blob":
 "13c1c3b1-9b34-46a9-837f-f50cc623baa9",
 "created":
-"2023-06-30T09:22:06.884896+00:00",
+"2023-06-30T09:22:06.884896Z",
 "metadata":
 {
 "@context":
@@ -17843,7 +17843,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.874270+00:00",
+"2023-07-05T16:33:30.874270Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201109-sess18_behavior+ecephys+image/4386562b-10bf-4b6b-890a-53120e3cf334_external_file_0.avi",
 "size":
@@ -17855,7 +17855,7 @@
 "blob":
 "92ffe009-f7f7-4f30-96db-d177539920f9",
 "created":
-"2023-06-30T09:24:41.517324+00:00",
+"2023-06-30T09:24:41.517324Z",
 "metadata":
 {
 "@context":
@@ -17963,7 +17963,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.914564+00:00",
+"2023-07-05T16:33:30.914564Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201109-sess18_behavior+ecephys+image/4386562b-10bf-4b6b-890a-53120e3cf334_external_file_1.avi",
 "size":
@@ -17975,7 +17975,7 @@
 "blob":
 "36a8a105-e767-4a22-92c1-af26d1df9042",
 "created":
-"2023-07-04T17:16:07.199383+00:00",
+"2023-07-04T17:16:07.199383Z",
 "metadata":
 {
 "@context":
@@ -18221,7 +18221,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.490322+00:00",
+"2023-07-05T16:33:31.490322Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201110-sess19-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -18233,7 +18233,7 @@
 "blob":
 "c6fc69c5-e736-4ee7-a8c6-a3798622afe8",
 "created":
-"2023-07-04T17:15:21.912201+00:00",
+"2023-07-04T17:15:21.912201Z",
 "metadata":
 {
 "@context":
@@ -18341,7 +18341,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.143306+00:00",
+"2023-07-05T16:33:31.143306Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201110-sess19-no-raw-data_behavior+ecephys+image/95b0d99e-4fc5-4b33-9ed8-583a41901805_external_file_0.avi",
 "size":
@@ -18353,7 +18353,7 @@
 "blob":
 "52317b46-030d-4587-bcb5-e78b0d0146a9",
 "created":
-"2023-07-04T17:15:24.008516+00:00",
+"2023-07-04T17:15:24.008516Z",
 "metadata":
 {
 "@context":
@@ -18461,7 +18461,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.320055+00:00",
+"2023-07-05T16:33:31.320055Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201110-sess19-no-raw-data_behavior+ecephys+image/95b0d99e-4fc5-4b33-9ed8-583a41901805_external_file_1.avi",
 "size":
@@ -18473,7 +18473,7 @@
 "blob":
 "aaa2bc73-1374-4564-9016-f3eb8722d905",
 "created":
-"2023-07-01T00:25:12.928520+00:00",
+"2023-07-01T00:25:12.928520Z",
 "metadata":
 {
 "@context":
@@ -18743,7 +18743,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.042869+00:00",
+"2023-07-05T16:33:31.042869Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201110-sess19_behavior+ecephys+image.nwb",
 "size":
@@ -18755,7 +18755,7 @@
 "blob":
 "c6fc69c5-e736-4ee7-a8c6-a3798622afe8",
 "created":
-"2023-06-30T22:33:14.382407+00:00",
+"2023-06-30T22:33:14.382407Z",
 "metadata":
 {
 "@context":
@@ -18863,7 +18863,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.021949+00:00",
+"2023-07-05T16:33:31.021949Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201110-sess19_behavior+ecephys+image/7f8e704f-8ab2-4300-8c4c-92db5ccd2cb5_external_file_0.avi",
 "size":
@@ -18875,7 +18875,7 @@
 "blob":
 "52317b46-030d-4587-bcb5-e78b0d0146a9",
 "created":
-"2023-06-30T22:33:11.991514+00:00",
+"2023-06-30T22:33:11.991514Z",
 "metadata":
 {
 "@context":
@@ -18983,7 +18983,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.011727+00:00",
+"2023-07-05T16:33:31.011727Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201110-sess19_behavior+ecephys+image/7f8e704f-8ab2-4300-8c4c-92db5ccd2cb5_external_file_1.avi",
 "size":
@@ -18995,7 +18995,7 @@
 "blob":
 "d6f3c6d9-b868-4de3-9e4c-32824c2830a8",
 "created":
-"2023-07-04T17:16:07.369244+00:00",
+"2023-07-04T17:16:07.369244Z",
 "metadata":
 {
 "@context":
@@ -19241,7 +19241,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.668264+00:00",
+"2023-07-05T16:33:31.668264Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201111-sess20-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -19253,7 +19253,7 @@
 "blob":
 "c0ee5f4b-1a5f-4269-ab6c-ed4ea1a58fca",
 "created":
-"2023-07-04T17:15:26.987164+00:00",
+"2023-07-04T17:15:26.987164Z",
 "metadata":
 {
 "@context":
@@ -19361,7 +19361,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.461493+00:00",
+"2023-07-05T16:33:31.461493Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201111-sess20-no-raw-data_behavior+ecephys+image/b6d80104-4d76-4848-b678-561829d9222d_external_file_0.avi",
 "size":
@@ -19373,7 +19373,7 @@
 "blob":
 "b203752f-e11b-435f-a1e8-80ee146430d3",
 "created":
-"2023-07-04T17:16:07.574395+00:00",
+"2023-07-04T17:16:07.574395Z",
 "metadata":
 {
 "@context":
@@ -19619,7 +19619,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.499567+00:00",
+"2023-07-05T16:33:31.499567Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201113-sess22-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -19631,7 +19631,7 @@
 "blob":
 "735a03f1-a1f5-4f52-aaf3-e21bd6bf214d",
 "created":
-"2023-07-04T17:15:43.963517+00:00",
+"2023-07-04T17:15:43.963517Z",
 "metadata":
 {
 "@context":
@@ -19739,7 +19739,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.645300+00:00",
+"2023-07-05T16:33:31.645300Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201113-sess22-no-raw-data_behavior+ecephys+image/63dc72eb-15cf-439c-bfd4-62f1e50c0364_external_file_0.avi",
 "size":
@@ -19751,7 +19751,7 @@
 "blob":
 "fd1595d5-64ec-450c-a1ca-41d5661a0d74",
 "created":
-"2023-07-04T17:15:45.872576+00:00",
+"2023-07-04T17:15:45.872576Z",
 "metadata":
 {
 "@context":
@@ -19859,7 +19859,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.328944+00:00",
+"2023-07-05T16:33:31.328944Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201113-sess22-no-raw-data_behavior+ecephys+image/63dc72eb-15cf-439c-bfd4-62f1e50c0364_external_file_1.avi",
 "size":
@@ -19871,7 +19871,7 @@
 "blob":
 "b48c09b5-364c-4a10-9ca0-eca398f5f4b4",
 "created":
-"2023-06-30T21:14:16.431641+00:00",
+"2023-06-30T21:14:16.431641Z",
 "metadata":
 {
 "@context":
@@ -20141,7 +20141,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.002803+00:00",
+"2023-07-05T16:33:31.002803Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201113-sess22_behavior+ecephys+image.nwb",
 "size":
@@ -20153,7 +20153,7 @@
 "blob":
 "735a03f1-a1f5-4f52-aaf3-e21bd6bf214d",
 "created":
-"2023-06-30T19:47:10.993953+00:00",
+"2023-06-30T19:47:10.993953Z",
 "metadata":
 {
 "@context":
@@ -20261,7 +20261,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.906145+00:00",
+"2023-07-05T16:33:30.906145Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201113-sess22_behavior+ecephys+image/075d0f4f-2157-47d0-a10c-da47e41eee09_external_file_0.avi",
 "size":
@@ -20273,7 +20273,7 @@
 "blob":
 "fd1595d5-64ec-450c-a1ca-41d5661a0d74",
 "created":
-"2023-06-30T19:47:08.326419+00:00",
+"2023-06-30T19:47:08.326419Z",
 "metadata":
 {
 "@context":
@@ -20381,7 +20381,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.922794+00:00",
+"2023-07-05T16:33:30.922794Z",
 "path":
 "sub-fCamk3/sub-fCamk3_ses-fCamk3-201113-sess22_behavior+ecephys+image/075d0f4f-2157-47d0-a10c-da47e41eee09_external_file_1.avi",
 "size":
@@ -20393,7 +20393,7 @@
 "blob":
 "818823dd-6e4c-436b-af50-70ed04d9b615",
 "created":
-"2023-07-04T17:16:30.082163+00:00",
+"2023-07-04T17:16:30.082163Z",
 "metadata":
 {
 "@context":
@@ -20639,7 +20639,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.711823+00:00",
+"2023-07-05T16:33:31.711823Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210406-sess10-no-raw-data_behavior+ecephys.nwb",
 "size":
@@ -20651,7 +20651,7 @@
 "blob":
 "68e630c5-10cc-4a33-b2bd-1ba281049e40",
 "created":
-"2023-07-01T00:30:23.718373+00:00",
+"2023-07-01T00:30:23.718373Z",
 "metadata":
 {
 "@context":
@@ -20921,7 +20921,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.065835+00:00",
+"2023-07-05T16:33:31.065835Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210406-sess10_behavior+ecephys.nwb",
 "size":
@@ -20933,7 +20933,7 @@
 "blob":
 "5214bbe6-23ea-4dc3-ad43-15a94f33fab3",
 "created":
-"2023-07-04T17:16:48.895547+00:00",
+"2023-07-04T17:16:48.895547Z",
 "metadata":
 {
 "@context":
@@ -21179,7 +21179,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.762694+00:00",
+"2023-07-05T16:33:31.762694Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210407-sess11-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -21191,7 +21191,7 @@
 "blob":
 "df1d67ba-8ded-4284-8c3f-36ecf9d09ad0",
 "created":
-"2023-07-04T17:16:05.293726+00:00",
+"2023-07-04T17:16:05.293726Z",
 "metadata":
 {
 "@context":
@@ -21299,7 +21299,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.653753+00:00",
+"2023-07-05T16:33:31.653753Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210407-sess11-no-raw-data_behavior+ecephys+image/62f4aa5e-f21f-42c9-8e52-16371400fb6a_external_file_0.avi",
 "size":
@@ -21311,7 +21311,7 @@
 "blob":
 "91c7da47-ca74-4457-ac96-6bb0e2ed786b",
 "created":
-"2023-07-04T17:16:10.365285+00:00",
+"2023-07-04T17:16:10.365285Z",
 "metadata":
 {
 "@context":
@@ -21419,7 +21419,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.515660+00:00",
+"2023-07-05T16:33:31.515660Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210407-sess11-no-raw-data_behavior+ecephys+image/62f4aa5e-f21f-42c9-8e52-16371400fb6a_external_file_1.avi",
 "size":
@@ -21431,7 +21431,7 @@
 "blob":
 "75fc14d7-ed80-4968-8267-2ff131a562b6",
 "created":
-"2023-06-30T19:06:38.567695+00:00",
+"2023-06-30T19:06:38.567695Z",
 "metadata":
 {
 "@context":
@@ -21701,7 +21701,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.782059+00:00",
+"2023-07-05T16:33:30.782059Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210407-sess11_behavior+ecephys+image.nwb",
 "size":
@@ -21713,7 +21713,7 @@
 "blob":
 "df1d67ba-8ded-4284-8c3f-36ecf9d09ad0",
 "created":
-"2023-06-30T17:21:40.654450+00:00",
+"2023-06-30T17:21:40.654450Z",
 "metadata":
 {
 "@context":
@@ -21821,7 +21821,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.750933+00:00",
+"2023-07-05T16:33:30.750933Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210407-sess11_behavior+ecephys+image/cc7c144c-cba5-4b48-95df-4d67f8d1bcc2_external_file_0.avi",
 "size":
@@ -21833,7 +21833,7 @@
 "blob":
 "91c7da47-ca74-4457-ac96-6bb0e2ed786b",
 "created":
-"2023-06-30T17:21:36.074164+00:00",
+"2023-06-30T17:21:36.074164Z",
 "metadata":
 {
 "@context":
@@ -21941,7 +21941,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.613828+00:00",
+"2023-07-05T16:33:30.613828Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210407-sess11_behavior+ecephys+image/cc7c144c-cba5-4b48-95df-4d67f8d1bcc2_external_file_1.avi",
 "size":
@@ -21953,7 +21953,7 @@
 "blob":
 "488387ff-9a2b-44f9-a52b-23904ae99d8b",
 "created":
-"2023-07-04T17:16:48.344847+00:00",
+"2023-07-04T17:16:48.344847Z",
 "metadata":
 {
 "@context":
@@ -22199,7 +22199,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.739620+00:00",
+"2023-07-05T16:33:31.739620Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210408-sess12-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -22211,7 +22211,7 @@
 "blob":
 "51d79b3c-44d7-49c9-ab34-5e162b750a51",
 "created":
-"2023-07-04T17:16:12.580178+00:00",
+"2023-07-04T17:16:12.580178Z",
 "metadata":
 {
 "@context":
@@ -22319,7 +22319,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.676759+00:00",
+"2023-07-05T16:33:31.676759Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210408-sess12-no-raw-data_behavior+ecephys+image/78c7c205-16df-4bf2-a86f-7d1c52ed9d8b_external_file_0.avi",
 "size":
@@ -22331,7 +22331,7 @@
 "blob":
 "b6dde4cd-2fc7-4daa-a85a-0efe5c1b0425",
 "created":
-"2023-07-04T17:16:12.808390+00:00",
+"2023-07-04T17:16:12.808390Z",
 "metadata":
 {
 "@context":
@@ -22439,7 +22439,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.526083+00:00",
+"2023-07-05T16:33:31.526083Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210408-sess12-no-raw-data_behavior+ecephys+image/78c7c205-16df-4bf2-a86f-7d1c52ed9d8b_external_file_1.avi",
 "size":
@@ -22451,7 +22451,7 @@
 "blob":
 "31783ad1-d255-4ddb-8c4d-9d8b64542b42",
 "created":
-"2023-06-30T18:57:32.965240+00:00",
+"2023-06-30T18:57:32.965240Z",
 "metadata":
 {
 "@context":
@@ -22721,7 +22721,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.623270+00:00",
+"2023-07-05T16:33:30.623270Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210408-sess12_behavior+ecephys+image.nwb",
 "size":
@@ -22733,7 +22733,7 @@
 "blob":
 "51d79b3c-44d7-49c9-ab34-5e162b750a51",
 "created":
-"2023-06-30T17:21:34.287023+00:00",
+"2023-06-30T17:21:34.287023Z",
 "metadata":
 {
 "@context":
@@ -22841,7 +22841,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.678622+00:00",
+"2023-07-05T16:33:30.678622Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210408-sess12_behavior+ecephys+image/87f964da-c076-4eff-931e-4afa5192efdb_external_file_0.avi",
 "size":
@@ -22853,7 +22853,7 @@
 "blob":
 "b6dde4cd-2fc7-4daa-a85a-0efe5c1b0425",
 "created":
-"2023-06-30T17:21:34.103548+00:00",
+"2023-06-30T17:21:34.103548Z",
 "metadata":
 {
 "@context":
@@ -22961,7 +22961,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.605236+00:00",
+"2023-07-05T16:33:30.605236Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210408-sess12_behavior+ecephys+image/87f964da-c076-4eff-931e-4afa5192efdb_external_file_1.avi",
 "size":
@@ -22973,7 +22973,7 @@
 "blob":
 "d12e4c6e-ce64-4725-929c-b737d966475f",
 "created":
-"2023-07-04T17:16:44.580213+00:00",
+"2023-07-04T17:16:44.580213Z",
 "metadata":
 {
 "@context":
@@ -23219,7 +23219,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.730108+00:00",
+"2023-07-05T16:33:31.730108Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210412-sess14-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -23231,7 +23231,7 @@
 "blob":
 "d3122eeb-30c9-4a72-8bda-19692ffb2061",
 "created":
-"2023-07-04T17:16:16.567283+00:00",
+"2023-07-04T17:16:16.567283Z",
 "metadata":
 {
 "@context":
@@ -23339,7 +23339,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.686480+00:00",
+"2023-07-05T16:33:31.686480Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210412-sess14-no-raw-data_behavior+ecephys+image/5d283d6b-d560-474f-929f-10bf4ca4214a_external_file_0.avi",
 "size":
@@ -23351,7 +23351,7 @@
 "blob":
 "412e5467-3d4b-48d5-a4ab-1fe9e525673b",
 "created":
-"2023-07-04T17:16:16.658009+00:00",
+"2023-07-04T17:16:16.658009Z",
 "metadata":
 {
 "@context":
@@ -23459,7 +23459,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.537199+00:00",
+"2023-07-05T16:33:31.537199Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210412-sess14-no-raw-data_behavior+ecephys+image/5d283d6b-d560-474f-929f-10bf4ca4214a_external_file_1.avi",
 "size":
@@ -23471,7 +23471,7 @@
 "blob":
 "f6fbfa28-34d6-4b08-9e03-af7ed5bc5489",
 "created":
-"2023-06-30T19:08:20.948233+00:00",
+"2023-06-30T19:08:20.948233Z",
 "metadata":
 {
 "@context":
@@ -23741,7 +23741,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.846752+00:00",
+"2023-07-05T16:33:30.846752Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210412-sess14_behavior+ecephys+image.nwb",
 "size":
@@ -23753,7 +23753,7 @@
 "blob":
 "d3122eeb-30c9-4a72-8bda-19692ffb2061",
 "created":
-"2023-06-30T17:21:46.659677+00:00",
+"2023-06-30T17:21:46.659677Z",
 "metadata":
 {
 "@context":
@@ -23861,7 +23861,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.760279+00:00",
+"2023-07-05T16:33:30.760279Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210412-sess14_behavior+ecephys+image/7f5e5479-a13f-46c3-8dd5-caeefa886933_external_file_0.avi",
 "size":
@@ -23873,7 +23873,7 @@
 "blob":
 "412e5467-3d4b-48d5-a4ab-1fe9e525673b",
 "created":
-"2023-06-30T17:21:44.996706+00:00",
+"2023-06-30T17:21:44.996706Z",
 "metadata":
 {
 "@context":
@@ -23981,7 +23981,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.686932+00:00",
+"2023-07-05T16:33:30.686932Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210412-sess14_behavior+ecephys+image/7f5e5479-a13f-46c3-8dd5-caeefa886933_external_file_1.avi",
 "size":
@@ -23993,7 +23993,7 @@
 "blob":
 "cc86a2a5-6dca-4662-8fa7-c23eb5ce1f7d",
 "created":
-"2023-07-04T17:16:48.763902+00:00",
+"2023-07-04T17:16:48.763902Z",
 "metadata":
 {
 "@context":
@@ -24239,7 +24239,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.750409+00:00",
+"2023-07-05T16:33:31.750409Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210414-sess16-no-raw-data_behavior+ecephys+image.nwb",
 "size":
@@ -24251,7 +24251,7 @@
 "blob":
 "b0238e91-e9c6-4ca5-85a9-64fdcff10c5d",
 "created":
-"2023-07-04T17:16:19.306365+00:00",
+"2023-07-04T17:16:19.306365Z",
 "metadata":
 {
 "@context":
@@ -24359,7 +24359,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.700062+00:00",
+"2023-07-05T16:33:31.700062Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210414-sess16-no-raw-data_behavior+ecephys+image/d8e982fb-2064-4c41-8505-f96d319ac42d_external_file_0.avi",
 "size":
@@ -24371,7 +24371,7 @@
 "blob":
 "4e1b1923-507b-48fe-b190-7454bad861a5",
 "created":
-"2023-07-04T17:16:21.256869+00:00",
+"2023-07-04T17:16:21.256869Z",
 "metadata":
 {
 "@context":
@@ -24479,7 +24479,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:31.721135+00:00",
+"2023-07-05T16:33:31.721135Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210414-sess16-no-raw-data_behavior+ecephys+image/d8e982fb-2064-4c41-8505-f96d319ac42d_external_file_1.avi",
 "size":
@@ -24491,7 +24491,7 @@
 "blob":
 "dabd5b86-060a-4820-ba39-3d05e2029dad",
 "created":
-"2023-06-30T19:04:32.738706+00:00",
+"2023-06-30T19:04:32.738706Z",
 "metadata":
 {
 "@context":
@@ -24761,7 +24761,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.695870+00:00",
+"2023-07-05T16:33:30.695870Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210414-sess16_behavior+ecephys+image.nwb",
 "size":
@@ -24773,7 +24773,7 @@
 "blob":
 "b0238e91-e9c6-4ca5-85a9-64fdcff10c5d",
 "created":
-"2023-06-30T17:21:52.543023+00:00",
+"2023-06-30T17:21:52.543023Z",
 "metadata":
 {
 "@context":
@@ -24881,7 +24881,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.837921+00:00",
+"2023-07-05T16:33:30.837921Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210414-sess16_behavior+ecephys+image/31185c31-4d1f-4316-bcee-dc88b24a2404_external_file_0.avi",
 "size":
@@ -24893,7 +24893,7 @@
 "blob":
 "4e1b1923-507b-48fe-b190-7454bad861a5",
 "created":
-"2023-06-30T17:21:55.428060+00:00",
+"2023-06-30T17:21:55.428060Z",
 "metadata":
 {
 "@context":
@@ -25001,7 +25001,7 @@
 ]
 },
 "modified":
-"2023-07-05T16:33:30.771925+00:00",
+"2023-07-05T16:33:30.771925Z",
 "path":
 "sub-fCamk5/sub-fCamk5_ses-fCamk5-210414-sess16_behavior+ecephys+image/31185c31-4d1f-4316-bcee-dc88b24a2404_external_file_1.avi",
 "size":
