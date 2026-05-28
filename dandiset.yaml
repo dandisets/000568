@@ -266,6 +266,12 @@ relatedResource:
   schemaKey: Resource
   url: 
     https://github.com/catalystneuro/buzsaki-lab-to-nwb/tree/main/buzsaki_lab_to_nwb/valero
+- name: Widget demonstration notebook for DANDI:000568
+  relation: dcite:IsSupplementedBy
+  resourceType: dcite:ComputationalNotebook
+  schemaKey: Resource
+  url: 
+    https://github.com/catalystneuro/buzsaki-lab-to-nwb/blob/main/buzsaki_lab_to_nwb/valero/widget_demostration.ipynb
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
