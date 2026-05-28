@@ -7,6 +7,9 @@ about:
 - identifier: UBERON:0002421
   name: hippocampus
   schemaKey: Anatomy
+- identifier: http://purl.obolibrary.org/obo/CL_0000598
+  name: pyramidal neuron
+  schemaKey: Anatomy
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -238,6 +241,11 @@ keywords:
 - Hippocampal formation
 - Place cells
 - Sharp-wave ripples
+- CA1
+- CA3
+- In vivo electrophysiology
+- Intracellular-like optogenetics
+- Excitability dynamics
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
@@ -252,6 +260,12 @@ relatedResource:
   resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://www.science.org/doi/10.1126/science.abm1891
+- name: Conversion code for Valero et al. (2022) data (Buzsaki Lab)
+  relation: dcite:IsCompiledBy
+  resourceType: dcite:Software
+  schemaKey: Resource
+  url: 
+    https://github.com/catalystneuro/buzsaki-lab-to-nwb/tree/main/buzsaki_lab_to_nwb/valero
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
